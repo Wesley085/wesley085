@@ -10,7 +10,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia, focado em back-end. Atualmente, estou aprimorando minhas habilidades em PHP e aprendendo Laravel para criar aplicações web robustas e eficientes. Estou no 1º semestre do curso Análise e Desenvolvimento de Sistemas na Uninassau e estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor.
+Sou um desenvolvedor apaixonado por tecnologia, focado no full-stack. Atualmente, estou aprimorando minhas habilidades em PHP e aprendendo Laravel para criar aplicações web robustas e eficientes. Estou no 1º semestre do curso Análise e Desenvolvimento de Sistemas na Uninassau e estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor.
 
 ## Habilidades
 
