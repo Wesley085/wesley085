@@ -19,7 +19,8 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em back-end. Atualmente, 
   <img align="center" alt="Weasy-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Weasy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Weasy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Weasy-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
+  <img align="center" alt="Weasy-WP" height="30" width="40" src="https://www.svgrepo.com/show/138828/wordpress-logo.svg">
+  
 </div>
 
 ## Conecte-se Comigo
