@@ -19,7 +19,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em back-end. Atualmente, 
   <img align="center" alt="Weasy-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Weasy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Weasy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Weasy-WP" height="30" width="40" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Wordpress-512.png">
+  <img align="center" alt="Weasy-WP" height="40" width="40" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Wordpress-512.png">
   
 </div>
 
