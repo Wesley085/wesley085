@@ -4,14 +4,6 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/wesley085">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesley085&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br/>
-
 ## 👨‍💻 Sobre Mim
 
 Sou um Desenvolvedor Full Stack focado em resolver problemas complexos e modernizar aplicações. Tenho experiência prática tanto na manutenção de sistemas legados robustos quanto na criação de novas arquiteturas escaláveis.
