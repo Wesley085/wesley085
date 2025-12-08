@@ -1,10 +1,13 @@
 <div align="center">
-  <h2>Olá! Eu sou o Wesley Santos 🚀</h2>
-  
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180" src="https://metrics.lecoq.io/wesley085?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America%2 Sao_Paulo" />
-    <img height="180" src="https://metrics.lecoq.io/wesley085?template=classic&base=NONE&languages=1&languages.limit=8&languages.threshold=0%" />
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Wesley%20Santos&fontSize=70&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlign=50&descAlignY=65&animation=fadeIn" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/wesley085">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesley085&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
