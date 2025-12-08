@@ -1,12 +1,10 @@
 <div align="center">
   <h2>Olá! Eu sou o Wesley Santos 🚀</h2>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=wesley085&theme=dark&show_icons=true&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesley085&layout=compact&langs_count=8&card_width=320&theme=dark" />
-  </a>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img height="180" src="https://metrics.lecoq.io/wesley085?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America%2 Sao_Paulo" />
+    <img height="180" src="https://metrics.lecoq.io/wesley085?template=classic&base=NONE&languages=1&languages.limit=8&languages.threshold=0%" />
+  </div>
 </div>
 
 <br/>
