@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Wesley%20Santos&fontSize=70&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlign=50&descAlignY=65&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Wesley%20Santos&fontSize=70&fontAlign=50&fontAlignY=35&desc=Back%20end%20Developer&descSize=20&descAlign=50&descAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
 
 ## 👨‍💻 Sobre Mim
 
-Sou um Desenvolvedor Full Stack focado em resolver problemas complexos e modernizar aplicações. Tenho experiência prática tanto na manutenção de sistemas legados robustos quanto na criação de novas arquiteturas escaláveis.
+Sou um Desenvolvedor Back-end focado em resolver problemas complexos e modernizar aplicações. Tenho experiência prática tanto na manutenção de sistemas legados robustos quanto na criação de novas arquiteturas escaláveis.
 
 Minha atuação principal envolve:
 * **Modernização:** Migração e refatoração de sistemas e gateways de pagamento.
